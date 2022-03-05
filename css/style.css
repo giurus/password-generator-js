@@ -12,7 +12,7 @@
 }
 
 body {
-	background-color: #212139;
+	background-color: #17212D;
 }
 
 .container {
@@ -68,7 +68,7 @@ h2 {
 
 .app .btn {
 	width: 100%;
-	background: #684bff;
+	background: #344b66;
 	color: #fff;
 	display: inline-block;
 	height: 40px;
@@ -82,11 +82,11 @@ h2 {
 }
 
 .app .btn:hover {
-	background: #8c7fce;
+	background: #4f729b;
 }
 
 .app .btn.false {
-	background: #33257e;
+	background: #5941df;
 }
 
 /* FIL DE NUMERO DE CARACTERES */
@@ -156,7 +156,7 @@ h2 {
 	position: absolute;
 	top: 13px;
 	right: -7px;
-	background: #684bff;
+	background: #344b66;
 	transition: all 0.3s ease;
 }
 
